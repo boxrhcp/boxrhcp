@@ -5,6 +5,7 @@
 - 📫 How to reach me: fayanpardo@gmail.com
 
 **Now Playing** on Spotify
+
 <a href="https://boxrhcp.vercel.app/now-playing?open">
     <img src="https://boxrhcp.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
