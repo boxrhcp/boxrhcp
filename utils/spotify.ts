@@ -36,6 +36,7 @@ export async function nowPlaying() {
       Authorization,
     },
   });
+  console.log(`This is the item ${response.item}`);
   const { status } = response;
   if (status === 204) {
     return {};
