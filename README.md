@@ -10,4 +10,4 @@
     <img src="https://boxrhcp.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxrhcp&hide=c#)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxrhcp)](https://github.com/anuraghazra/github-readme-stats)
