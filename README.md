@@ -13,7 +13,7 @@
 <p align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxrhcp&theme=radical"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxrhcp&theme=radical&hide=html"/>
     </a>
 </p>
 
