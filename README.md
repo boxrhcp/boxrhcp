@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Master Thesis in Microservices
+- 🔭 I’m currently working in Devo as a Software Engineer
 - 💬 Ask me about anything!
 - 📫 How to reach me: fayanpardo@gmail.com
 <p align="center"> 
