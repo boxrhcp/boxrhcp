@@ -8,15 +8,3 @@
         <img src="https://boxrhcp.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
     </a>
 </p>
-
-<p align="center"> 
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxrhcp&theme=radical&hide=html,css"/>
-    </a>
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/boxrchp/count.svg" />
-</p>
