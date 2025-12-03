@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-- 💬 Ask me about anything!
-- 📫 How to reach me: fayanpardo@gmail.com
 <p align="center"> 
     <b>Now playing</b> on Spotify <br>
     <a href="https://boxrhcp.vercel.app/now-playing?open">
