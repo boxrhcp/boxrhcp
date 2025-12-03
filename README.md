@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in @DevoInc as a Software Engineer
 - 💬 Ask me about anything!
 - 📫 How to reach me: fayanpardo@gmail.com
 <p align="center"> 
